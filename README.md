@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mike
 - 👀 I’m interested in music and coding
 - 🌱 I’m currently learning Network administration
-- 📫 How to reach me: mmaranonquero@gmail.com
+- 📫 How to reach me: mikemaranonx@gmail.com
