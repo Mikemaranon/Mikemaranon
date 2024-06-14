@@ -2,4 +2,4 @@
 - 👀 I’m interested in music and coding
 - 🌱 I’m currently learning Network administration
 - 📫 How to reach me: mikemaranonx@gmail.com
-- 📫 Linkedin: https://www.linkedin.com/in/miguel-mara%C3%B1%C3%B3n-quero-88b3b9251/
+- 📫 Linkedin: www.linkedin.com/in/mikemaranon
