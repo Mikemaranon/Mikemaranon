@@ -56,3 +56,8 @@
 ###
 
 <h2 align="center"><a href="https://github.com/Mikemaranon/C-from-zero">C From Zero</a></h2>
+<h2 align="center"><a href="https://github.com/Mikemaranon/GenAI">GenAI</a></h2>
+<h2 align="center"><a href="https://github.com/Mikemaranon/OpenCerts-webApp">OpenCerts App</a></h2>
+<h2 align="center"><a href="https://github.com/Mikemaranon/PHP-SQL-website">PHP-SQL Website</a></h2>
+<h2 align="center"><a href="https://github.com/Mikemaranon/SQL-Server">SQL Server</a></h2>
+<h2 align="center"><a href="https://github.com/Mikemaranon/Proyecto-final-ASIR">Proyecto Final ASIR</a></h2>
