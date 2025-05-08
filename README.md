@@ -54,4 +54,4 @@
 <br clear="both">
 
 ### 
-<h1 align="center"><a href="https://github.com/Mikemaranon?preview=true&tab=repositories](https://mikemaranon.github.io/Mike-portfolio/"> Portfolio </a></h1>
+<h1 align="center"><a href="https://mikemaranon.github.io/Mike-portfolio/"> Portfolio </a></h1>
